@@ -11,5 +11,5 @@ end entity;
 architecture  rtl OF q2 IS
 
 begin
-s <= (r and q) or not p;
+
 end architecture;
